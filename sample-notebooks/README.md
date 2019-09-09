@@ -1,11 +1,11 @@
-# LC4RI: Literate Computing for Reproducible Infrastructure *DEMO*
+# LC4RI: Literate Computing for Reproducible Infrastructure
 
 *Literate Computing for Reproducible Infrastructure* is our project, which utilizes Jupyter Notebook in the operational engineering area. It seeks collaborative communication leading to share and improve operational workflows of researchers, educators, engineers, and other practitioners for reproducible computing.  Jupyter Notebook enables us to describe automated operations with complementary principles, which aim to **keep humans in the automated operational loop**. We pursue resilient, *human-centered automated operations* (機械化) that should not excessively rely on *no-ops automation* (自動化).
 
-Notebooks are machine-reproducible, human-readable, and substitutable procedures, which improve efficiency and robustness of operations **without pushing aside humans from black-boxed automation**. Keeping our ability to learn and grow, we can foster a resilient engineering team by encouraging sharing operational knowledge and developing skillfulness.
+Notebooks are machine-reproducible, human-readable, and human-substitutable procedures, which improve efficiency and robustness of operations **without pushing aside humans from black-boxed automation**. Keeping our ability to learn and grow, we can foster a resilient engineering team by encouraging sharing operational knowledge and developing skillfulness.
 
 
-## デモ環境の利用方法
+## About This DEMO
 
 このデモ環境ではJupyterのインタフェースを使って、運用作業の一例としてのログ分析や、我々のチームがLC4RIの実践のために開発している各種Extensionを使ってみるといった体験ができます。
 
@@ -14,7 +14,7 @@ Notebooks are machine-reproducible, human-readable, and substitutable procedures
 また、Sidestickies という Notebookに対して Sticky Note（付箋）を付与する機能では [Scrapbox](https://scrapbox.io/product/)サービスを利用しています。デモ環境の Sticky Note は参照のみで、編集できません。
 
 
-> <span style='background-color:mistyrose;'> ** Please respect guidelines and policies [MyBinder.org](https://mybinder.readthedocs.io/en/latest/user-guidelines.html) and [Scrapbox](https://scrapbox.io/product/) ** </span>
+> <span style='background-color:mistyrose;'> ** Please respect guidelines and policies [MyBinder.org](https://mybinder.readthedocs.io/en/latest/user-guidelines.html) and [Scrapbox.io](https://scrapbox.io/product/) ** </span>
 
 
 <img src="./tree/images/openhouse-2019-demo.png" align="right" width="25%" />
