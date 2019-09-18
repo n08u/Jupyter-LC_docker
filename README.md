@@ -8,8 +8,8 @@ The goals for Literate Computing tools are:
 
 ## What it Gives You
 
-- Jupyter Notebook 5.0.x
-- Python2/Python3 kernel with LC_wrapper https://github.com/NII-cloud-operation/Jupyter-LC_wrapper
+- Jupyter Notebook 6.0.x
+- Python3 kernel with LC_wrapper https://github.com/NII-cloud-operation/Jupyter-LC_wrapper
 - Extensions
     - multi_outputs https://github.com/NII-cloud-operation/Jupyter-multi_outputs
     - run_through https://github.com/NII-cloud-operation/Jupyter-LC_run_through
