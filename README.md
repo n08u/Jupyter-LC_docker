@@ -9,7 +9,7 @@ The goals for Literate Computing tools are:
 ## What it Gives You
 
 - Jupyter Notebook 6.0.x
-- Python3 kernel with LC_wrapper https://github.com/NII-cloud-operation/Jupyter-LC_wrapper
+- Python3 and bash kernel with LC_wrapper https://github.com/NII-cloud-operation/Jupyter-LC_wrapper
 - Extensions
     - multi_outputs https://github.com/NII-cloud-operation/Jupyter-multi_outputs
     - run_through https://github.com/NII-cloud-operation/Jupyter-LC_run_through
@@ -31,7 +31,7 @@ You can login the Notebook server with the authentication token in the startup m
 
 You may customize the execution of Docker container and the Notebook server contained with the following optional arguments.
 
-- `-e lc_wrapper_force=on` - Force summarizing and logging mode of lc_wrapper (via env)
+- `-e lc_wrapper_force=on` - Force summarizing mode of lc_wrapper (via env)
 - `-e TZ=JST-9` - Specify the container timezone
 - `-e PASSWORD=MY_UNBREAKABLE_PASS` - Set a initial password
 - `-v /some/host/folder/for/work:/notebooks` - Mounts the host directory to the working directory in the container
